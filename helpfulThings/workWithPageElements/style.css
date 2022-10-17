@@ -1,0 +1,30 @@
+.box {
+    width: 100px;
+    height: 100px;
+    background-color: red;
+}
+
+.circle {
+    width:70px;
+    height: 70px;
+    border-radius: 100%;
+    background-color: blue;
+    margin-top: 10px;
+}
+
+.heart {
+    width:70px;
+    height: 70px;
+    border-radius: 100%;
+    background-color: red;
+    margin-top: 10px;
+}
+
+.black {
+    width:30px;
+    height: 30px;
+    background-color: black;
+    text-align: center;
+    color:wheat;
+    font-size: 10px;
+}
